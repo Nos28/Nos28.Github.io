@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin&display=swap');
+
+body{
+  font-family: sans-serif;
+  color:white;
+  font-weight: 955;
+  line-height: 2.1em;
+  background-image: url("images/navy.png")
+}
+
+
+/* Nav */
+.navigation {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+img{
+  padding-top: 30px;
+  padding-bottom:30px;
+}
+
+.linky {
+  float: left;
+}
+
+.blinky {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.main{
+  font-family: "Libre-Franklin", sans-serif;
+  font-size: 1em
+  padding-top: 20px;
+  max-width:600px;
+  margin:auto;
+  padding-bottom: 60px;
+}
+
+hr{
+  color:white;
+  background-color: white;
+}
+
+footer{
+  font-size: .8em;
+}
